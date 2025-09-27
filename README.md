@@ -28,26 +28,6 @@ Vite (development and bundling)
 
 HTML & CSS
 
-## 🚀 Getting Started
-1. Clone the repository
-git clone https://github.com/your-username/guitar-store-demo.git
-cd guitar-store-demo
-
-2. Install dependencies
-npm install
-
-3. Run the development server
-npm run dev
-
-
-The app will be available at http://localhost:5173
- (Vite default).
-
-4. Build for production (optional)
-npm run build
-
-Generates an optimized production build inside the dist/ folder.
-
 ## 🎯 Learning Goals
 
 This project was my first hands-on React project, helping me:
