@@ -2,7 +2,7 @@
 
 This is a demo project built while learning React with Vite and JavaScript (JSX). The application simulates a small online guitar shop, providing an interactive experience to practice state management, components, and user interactions.
 
-💻 Live Demo: [edmonguitarstore](https://edmonguitarstore.netlify.app/)
+💻 Live Demo: [Guitar Store Demo](https://edmonguitarstore.netlify.app/)
 
 ## ✨ Features
 
