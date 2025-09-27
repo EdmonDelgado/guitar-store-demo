@@ -1,4 +1,3 @@
-import { useMemo } from "react"
 export default function Header({cart, removeFromCart, increaseQuantity, decreaseQuantity, setCart}) {
 
   // State Derivado
