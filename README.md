@@ -1,24 +1,24 @@
-🎸 Guitar Store Demo
+# 🎸 Guitar Store Demo
 
 This is a demo project built while learning React with Vite and JavaScript (JSX). The application simulates a small online guitar shop, providing an interactive experience to practice state management, components, and user interactions.
 
 💻 Live Demo: https://edmonguitarstore.netlify.app/
 
-✨ Features
+## ✨ Features
 
-📦 Product listing – display guitars with name, image, price, and description.
+📦 **Product listing** – display guitars with name, image, price, and description.
 
-🛒 Interactive shopping cart – users can add guitars, increase/decrease quantities (with minimum and maximum limits), and remove items.
+🛒 **Interactive shopping cart** – users can add guitars, increase/decrease quantities (with minimum and maximum limits), and remove items.
 
-💰 Automatic total calculation – updates dynamically based on user actions.
+💰 **Automatic total calculation** – updates dynamically based on user actions.
 
-⚡ Persistent state with localStorage – cart contents are saved between sessions.
+⚡ **Persistent state with localStorage** – cart contents are saved between sessions.
 
-🧩 Component-based architecture – reusable components for guitars (Guitar.jsx) and the header/cart (Header.jsx).
+🧩 **Component-based architecture** – reusable components for guitars (Guitar.jsx) and the header/cart (Header.jsx).
 
-✅ Hooks practice – uses useState and useEffect for state management and side effects.
+✅ **Hooks practice** – uses useState and useEffect for state management and side effects.
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 React (JSX)
 
@@ -28,7 +28,7 @@ Vite (development and bundling)
 
 HTML & CSS
 
-🚀 Getting Started
+## 🚀 Getting Started
 1. Clone the repository
 git clone https://github.com/your-username/guitar-store-demo.git
 cd guitar-store-demo
@@ -48,7 +48,7 @@ npm run build
 
 Generates an optimized production build inside the dist/ folder.
 
-🎯 Learning Goals
+## 🎯 Learning Goals
 
 This project was my first hands-on React project, helping me:
 
@@ -60,7 +60,7 @@ Implement dynamic, interactive components like a shopping cart.
 
 Organize a project using a component-based architecture.
 
-📌 Status & Future Improvements
+## 📌 Status & Future Improvements
 
 ✅ Finished as a demo project for learning purposes.
 ⚡ Possible improvements:
