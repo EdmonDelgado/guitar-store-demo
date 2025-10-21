@@ -1,10 +1,7 @@
-export default function Header({cart, removeFromCart, increaseQuantity, decreaseQuantity, setCart}) {
+import { useCart } from "../hooks/useCart.js";
 
-  // State Derivado
-  const isEmpty = () => cart.length === 0
-  const cartTotal = cart.reduce((total, item) => {
-    return total + (item.quantity * item.price)
-  }, 0)
+export default function Header({cart, removeFromCart, increaseQuantity, 
+  decreaseQuantity, setCart, isEmpty, cartTotal}) {
 
   return(
     <header className="py-5 header">
